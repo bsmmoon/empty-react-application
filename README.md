@@ -12,7 +12,7 @@ Copy the repo and use it as you wish
 ### How to run
 ```
 npm run build
-npm run start
+npm run start:dev
 ```
 
 ## What happened
