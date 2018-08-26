@@ -1,0 +1,5 @@
+# Build
+build/transformed.js
+
+# Dependency directories
+node_modules/
