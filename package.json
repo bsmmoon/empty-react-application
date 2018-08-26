@@ -22,5 +22,9 @@
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
     "webpack-dev-server": "^3.1.6"
+  },
+  "engines": {
+    "npm": "5.3.0",
+    "node": "v8.4.0"
   }
 }
